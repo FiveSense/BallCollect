@@ -1,0 +1,8 @@
+Binaries
+Intermediate
+Saved
+*.sln
+*.sdf
+*.suo
+*.VC.db
+.vs
