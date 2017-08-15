@@ -10,7 +10,8 @@
 2017.8.15|项目初始化|new project|
 2017.8.15|项目基础文件夹|basic folder|
 2017.8.15.16:19|创建了场景，添加了鼠标XY控制摄像头视角|Qian Change|
+2017.8.15.17:37|在BallPawn_BP中添加了鼠标左键发射子弹功能，添加了子弹蓝图BP_Actor_Bullet ，添加了一些Static Mesh|Qian Change|
 ## 2. 功能描述
 
 1. 2017.8.15.16:19/修改了BallPawn_BP,Add Camera,Add Mouse Control
-
+1. 2017.8.15.17:37/添加了鼠标左键发射子弹功能
